@@ -10,7 +10,7 @@
   "bin": "./bin/thumbd.js",
   "author": "Ben Coe <bencoe@gmail.com>",
   "engines": {
-    "node": "0.10.29"
+    "node": ">=5.x.x"
   },
   "config": {
     "blanket": {
